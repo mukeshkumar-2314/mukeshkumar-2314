@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mukesh kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate data analyst</h3>
 
-- 🔭 I’m currently working on **smart mirror using raspberry pi**
+- 🔭 I’m currently working on **OTT platform dashboard using powerbi**
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **Cloud platform**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **DATA SCIENCE**
 
 - 📫 How to reach me **mukeshkumar20@karunya.edu.in**
 
